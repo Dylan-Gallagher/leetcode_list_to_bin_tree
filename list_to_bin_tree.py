@@ -32,7 +32,7 @@ def list_to_bin_tree(node_list_str):
 
     return node_list[0]
 
-if __name__ == "main":
+if __name__ == "__main__":
     # Example Usage
     root = list_to_bin_tree("[3,9,20,null,null,15,7]")
 
